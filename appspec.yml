@@ -29,9 +29,5 @@ hooks:
 #      runas:
 # During the ApplicationStart deployment lifecycle event, run the commands
 #   in the script specified in "location".
-  ApplicationStart:
-    - location: /tmp/start_httpd.sh
-      timeout: 300
-      runas: root
 #    - location:
 #      timeout:
