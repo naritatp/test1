@@ -1,4 +1,4 @@
-version: 0.0
+version: 0.5
 # (You cannot specify both "os: linux" and "os: windows".)
 os: linux
 # os: windows
